@@ -1,4 +1,4 @@
 - Eu sou @Erick-Cavalcante sou formado em ánalise de dados pela ebac, com amplo conhecimento nas tecnologias: python, pandas, git hub, sql, py spark, databricks, looker studio. 
 - Inglês nível intermediário e seja bem vindo(a) ao meu Github!
-- 
+-  
 - Estou em busca de minha primeira oportunidade na área de dados 
